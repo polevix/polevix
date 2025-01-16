@@ -5,7 +5,7 @@
 
 Sou engenheiro de software formado, apaixonado por música e crio soluções que gostaria de ver no mundo. Aqui estão algumas coisas sobre mim:
 
-- 💼 Atualmente trabalho em projetos pessoais como Fullstack.
+- 💼 Atualmente trabalho como analista de sistemas Fullstack.
 - 🛠️ Trabalho com **C#, .NET, ASP.NET, EntityFramework, JS, React-Native, HTML, Css, Python, PHP, Node.js**
 - 🚀 Tenho experiência em **Scrum e Kanban**
 - 🛠️ Ferramentas preferidas: **Docker, Kubernetes, Postman, Swagger, MySql, Linux e Design Patterns**
